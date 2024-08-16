@@ -1,0 +1,1 @@
+<a href="<% tp.system.prompt('Enter URL') %>" target="_blank">here</a>

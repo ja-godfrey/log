@@ -1,23 +1,23 @@
 ---
-title: '"index"'
+title: Home Page
 date: 
 draft: false
 tags:
 ---
-## Open Questions
+Hi! This is a list of the questions I'm trying to answer. Some are trivial. Some are less trivial. I have fun either way. 
 
-| question                    | work stream | status | projected audience | link |
-| --------------------------- | ----------- | ------ | ------------------ | ---- |
-| Who has #Accelerate funded? | #accelerate | #done  | anyone             |      |
+For more information on any question, feel free to click the link to the question's page.
+## Open Questions
+- [[Where have ESSER funds been allocated to tutoring]]?
+- [[Where have ESSER funds been allocated]]?
+- [[How were ESSER funds spent]]?
 
 ## Stalled Questions
+- [[How much ESSER money  has been allocated to tutoring]]?
+- [[Are the districts that received additional state funds for tutoring in Delaware different than the average district]]?
+- [[Can AI tutor help students have more process-oriented writing approach]]?
+- [[What approaches to tutoring have worked for Colorado DoE so far]]?
 
-| question                                                                                                               | work stream           | status                  | projected audience | link |
-| ---------------------------------------------------------------------------------------------------------------------- | --------------------- | ----------------------- | ------------------ | ---- |
-| How much #ESSER money  has been allocated to #tutoring?                                                                | #accelerate           | out for review at #AERA | conference         |      |
-| Are the districts that received additional state funds for #tutoring in #Delaware different than the average district? | #accelerate #SDP #SLR | out for review at #AERA | conference         |      |
-| Can #AI tutor help students have more process-oriented writing approach?                                               | #accelerate #NSF      | out for review at #AERA | conference         |      |
-| What approaches to #tutoring have worked for #Colorado DoE so far?                                                     | #accelerate #SDP #SLR | our for review at #AERA | conference         |      |
-
-## Published Work 
+## Answered Questions
+("answered" simply meaning I'm done with the project)
 
