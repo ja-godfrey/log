@@ -9,3 +9,27 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# Ignore CSV files (Comma-Separated Values)
+*.csv
+
+# Ignore Excel files
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+
+# Ignore JSON files (JavaScript Object Notation)
+*.json
+
+# Ignore Parquet files (Columnar storage format)
+*.parquet
+
+# Ignore SQL database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore Pickle files (Python object serialization)
+*.pkl
+*.pickle
