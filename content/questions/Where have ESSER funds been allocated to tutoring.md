@@ -6,6 +6,7 @@ tags:
   - "#accelerate"
   - "#ESSER"
   - "#tutoring"
+  - "#SDP"
 ---
 ESSER funding was 190 billion dollars. Billion with a B. Billion with 1000 millions. That is a lot of money. That money was allocated to states with very little regulation about how it could be spent or how those expenditures need to be reported. This means that there isn't (or at least I'm not aware) of a federal-level source that describes ESSER expenditures that include insight into where tutoring took place and how much was spent on it.
 

@@ -12,6 +12,7 @@ tags:
   - "#james-hammond"
   - wpa
   - "#published"
+  - "#grad-school"
 ---
 The fully published article has more information, but here is the abbreviated answer to the question: 
 - Students' reflections reveal how they perceive themselves as writers and their understanding of college writing expectations.

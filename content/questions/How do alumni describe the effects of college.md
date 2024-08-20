@@ -15,6 +15,7 @@ tags:
   - "#andrew-pine"
   - "#kathryn-van-zanen"
   - "#published"
+  - "#grad-school"
 ---
 The fully published article has more information, but here is the abbreviated answer to the question:  
 - Alumni frequently cited personal integrity and self-knowledge, vocational preparedness, interpersonal skills, and advanced intellectual skills as key effects of their undergraduate education, with coursework being the most influential factor.
