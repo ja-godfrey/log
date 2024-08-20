@@ -12,6 +12,8 @@ tags:
   - "#anil-menon"
   - "#laura-romaine"
   - "#michelle-sprouse"
+  - "#wpa"
+  - "#published"
 ---
 The fully published article has more information, but here is the abbreviated answer to the question:
 

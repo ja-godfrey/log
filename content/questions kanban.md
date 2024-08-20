@@ -23,11 +23,18 @@ kanban-plugin: board
 - [ ] [[What approaches to tutoring have worked for Colorado DoE so far]] [[2024-08-16]]
 
 
-## completed
+## posted
 
 
 
 ## published
+
+- [ ] [[Do students select first-year class placements differently by race, sex, SES]]
+- [ ] [[What do student reflections reveal about SSP ecological impacts]]
+- [ ] [[How do alumni describe the effects of college]]
+
+
+## presented
 
 
 
@@ -35,6 +42,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
