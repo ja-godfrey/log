@@ -10,6 +10,12 @@ tags:
 ---
 ESSER funding was 190 billion dollars. Billion with a B. Billion with 1000 millions. That is a lot of money. That money was allocated to states with very little regulation about how it could be spent or how those expenditures need to be reported. This means that there isn't (or at least I'm not aware) of a federal-level source that describes ESSER expenditures that include insight into where tutoring took place and how much was spent on it.
 
+The best that I can find is a figure from the ESSER report from the 2022 fiscal year @cardona2024. According to this, 27.1% of LEAs have allocated some of their federal funds towards tutoring. I am not sure how they got this percentage, but boy howdy it'd be great to know.
+
+![[esser-allocation-percentages.png]]
+
+
+
 Enter the district ESSER spending plans. 
 
 Each district had to create a document that detailed (more or less) how they would spend their ESSER allocations. These documents come in many forms: pdf, html, pptx, to name a few. Some districts have created really great breakdowns of how the ESSER money was spent, such as <a href="https://www.houstonisd.org/Page/195359" target="_blank">Houston ISD</a>. Others are <a href="https://www.lausd.org/cms/lib/CA01000043/Centricity/Domain/1057/3-%20Supt%20Report%20ESSER%203%20BOE%2023%2006%2006.pdf" target="blank">less impressive</a>.  I want to go through those documents and find out which districts mention tutoring in their ESSER plan.

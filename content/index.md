@@ -15,7 +15,7 @@ Each question is its own page, so feel free to click through and see what I've b
 - [[What do student reflections reveal about SSP ecological impacts]]?
 - [[How do alumni describe the effects of college]]?
 - [[Do students learn during one-shot library sessions]]?
-- Are video metrics useful for course assessment in online writing instruction?
+- [[Are video metrics useful for course assessment in online writing instruction]]?
 
 ## Open Questions
 - [[Where have ESSER funds been allocated to tutoring]]?
