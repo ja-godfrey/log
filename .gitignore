@@ -33,3 +33,6 @@ replit.nix
 # Ignore Pickle files (Python object serialization)
 *.pkl
 *.pickle
+
+#custom
+nothing.txt

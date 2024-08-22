@@ -24,7 +24,7 @@ Each district had to create a document that detailed (more or less) how they wou
 
 Other researchers have already done great work tracking ESSER expenditures from district-level spending plans, including <a href="https://edunomicslab.org/esser-spending/" target="_blank">Georgetown's Edunomics lab</a>, <a href="https://afterschoolalliance.org/documents/Investments-in-Student-Recovery-2023.pdf" target="_blank">Afterschool Alliance</a>, and <a href="https://www.future-ed.org/progress-in-spending-federal-k-12-covid-aid-state-by-state/" target="_blank">FutureEd</a>. But none of these sources focus on tutoring, even if it is incidentally included.
 
-The idea, then, is to used scraped district spending plans to locate all of the districts that mention "tutor*" in their budget. Below is the embedded map. You can view the whole thing <a href="https://log.jasongodfrey.info/html-files/burbio10.html">here</a>:
+The idea, then, is to used scraped district spending plans to locate all of the districts that mention "tutor*" in their budget. Below is the embedded map. You can view the whole thing <a href="https://log.jasongodfrey.info/html-files/burbio10.html">here</a>.
 # the map
 
 <iframe src="burbio10.html" width="100%" height="600px" frameborder="0"></iframe>
