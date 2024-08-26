@@ -26,6 +26,5 @@ Other researchers have already done great work tracking ESSER expenditures from 
 
 The idea, then, is to used scraped district spending plans to locate all of the districts that mention "tutor*" in their budget. Below is the embedded map. You can view the whole thing <a href="https://log.jasongodfrey.info/html-files/burbio10.html">here</a>.
 # the map
-
 <iframe src="burbio10.html" width="100%" height="600px" frameborder="0"></iframe>
 
