@@ -1,10 +1,12 @@
 ---
-title: Portfolio Navigator
+title: Welcome to my question collection!
 date: 
 draft: false
 tags:
 ---
-Hi! This is a portfolio of the questions I've answered, as well as the ones I'm still working on! 
+👋 Hello 👋 
+
+This is a portfolio of the questions I've answered, as well as the ones I'm still working on! 
 
 Each question is its own page, so feel free to click through and see what I've been up to.
 

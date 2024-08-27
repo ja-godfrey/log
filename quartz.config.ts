@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       tagId: 'G-09KK2TCTB4'
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "log.jasongodfrey.info",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
