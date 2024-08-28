@@ -1,6 +1,6 @@
 ---
 title: What do student reflections reveal about SSP's ecological impacts?
-date: "[[2024-08-16]]"
+date: 2024-08-17
 draft: false
 tags:
   - "#DSP"

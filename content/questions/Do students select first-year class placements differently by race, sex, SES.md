@@ -1,6 +1,6 @@
 ---
 title: Do students select first-year class placements differently by race, sex, SES?
-date: "[[2024-08-16]]"
+date: 2024-08-17
 draft: false
 tags:
   - "#FYW"
