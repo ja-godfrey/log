@@ -21,6 +21,7 @@ Each question is its own page, so feel free to click through and see what I've b
 - [[Where does Accelerate have grantees]]?
 
 ## Open Questions
+(i.e. working papers)
 - [[Where have ESSER funds been allocated to tutoring]]?
 - [[Where have ESSER funds been allocated]]?
 - [[How were ESSER funds spent]]?
@@ -30,9 +31,20 @@ Each question is its own page, so feel free to click through and see what I've b
 - What do we learn about student research from their citation practices?
 - How does public discourse around the 1619 project vary by political affiliation?
 ## Stalled Questions
+(i.e. submitted papers, projects waiting for IRB, projects that need additional funding)
 - [[How much ESSER money has been allocated to tutoring]]?
 - [[Are the districts that received additional state funds for tutoring in Delaware different than the average district]]?
 - [[Can AI tutor help students have more process-oriented writing approach]]?
 - [[What approaches to tutoring have worked for Colorado DoE so far]]?
 - How influential are advising sessions for student placement?
+
+## Quick questions
+(i.e. one-off charts/infographics)
+- [[How much ESSER funding was allocated to each state]]?
+- [[How much ESSER funding was allocated per student]]?
+- [[What is the distribution of ESSER funding allocated per student]]?
+- [[What percent of ESSER funds are spent]]?
+- [[What did the states spend their ESSER money on]]?
+- [[ What data sources did states use to identify students disproportionately impacted by COVID-19]]?
+- [[How many data sources did states use to identify students disproportionately impacted by COVID-19]]?
 
