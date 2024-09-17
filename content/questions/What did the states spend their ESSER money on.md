@@ -11,4 +11,4 @@ Hot Jazz I wish these weren't boolean reports. I would love to know how much mon
 
 <iframe src="state_esser_uses.html" width="100%" height="600px" frameborder="0"></iframe>
 
-View this chart as its own page [here](https://log.jasongodfrey.info/state_esser_uses.html).
+View this chart as its own page [here](https://log.jasongodfrey.info/html-files/state_esser_uses.html).

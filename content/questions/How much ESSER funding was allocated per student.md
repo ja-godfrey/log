@@ -11,4 +11,4 @@ tags:
 
 <iframe src="state-esser-allocations-per-student.html" width="100%" height="600px" frameborder="0"></iframe>
 
-View this chart as its own page [here](https://log.jasongodfrey.info/state-esser-allocations-per-student.html).
+View this chart as its own page [here](https://log.jasongodfrey.info/html-files/state-esser-allocations-per-student.html).

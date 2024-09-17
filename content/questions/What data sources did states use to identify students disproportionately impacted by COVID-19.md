@@ -13,4 +13,4 @@ I think there are some surprises here. For one, I'm surprised that academic outc
 
 <iframe src="state_data_used_bar.html" width="100%" height="600px" frameborder="0"></iframe>
 
-View this chart as its own page [here](https://log.jasongodfrey.info/state_data_used_bar.html).
+View this chart as its own page [here](https://log.jasongodfrey.info/html-files/state_data_used_bar.html).
