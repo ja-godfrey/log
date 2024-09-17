@@ -13,4 +13,4 @@ I suspect that once again there is some reporting error. I know for a fact Color
 
 <iframe src="state_percent_esser_spent.html" width="100%" height="600px" frameborder="0"></iframe>
 
-View this chart as its own page [here](log.jasongodfrey.info/state_percent_esser_spent.html).
+View this chart as its own page [here](https://log.jasongodfrey.info/state_percent_esser_spent.html).

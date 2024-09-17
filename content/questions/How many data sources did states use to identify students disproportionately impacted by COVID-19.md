@@ -13,4 +13,4 @@ I think this is a case where some states didn't do a great job reporting what th
 
 <iframe src="state_data_used.html" width="100%" height="600px" frameborder="0"></iframe>
 
-View the map as its own page [here](log.jasongodfrey.info/state_data_used.html).
+View the map as its own page [here](https://log.jasongodfrey.info/state_data_used.html).
