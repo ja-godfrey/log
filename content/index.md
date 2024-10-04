@@ -45,8 +45,8 @@ Each question is its own page, so feel free to click through and see what I've b
 - [[What is the distribution of ESSER funding allocated per student]]?
 - [[What percent of ESSER funds are spent]]?
 - [[What did the states spend their ESSER money on]]?
-- [[ What data sources did states use to identify students disproportionately impacted by COVID-19]]?-
-- [[How many data sources did states use to identify students disproportionately impacted by COVID-19]]?-
+- [[ What data sources did states use to identify students disproportionately impacted by COVID-19]]?
+- [[How many data sources did states use to identify students disproportionately impacted by COVID-19]]?
 - [[Did the state directly administer activities to address the learning loss of students disproportionately impacted by COVID-19]]?
 - [[Did the state award ESSER SEA Reserve Funds to local educational agencies (LEAs) during the reporting period]]?-
 - [[Did the state award ESSER SEA Reserve Funds to non-LEA entities during the reporting period]]?-
