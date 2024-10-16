@@ -30,6 +30,7 @@ Each question is its own page, so feel free to click through and see what I've b
 - How did citation practices in student research papers change during the early internet?
 - What do we learn about student research from their citation practices?
 - How does public discourse around the 1619 project vary by political affiliation?
+- How did student citation patterns change as the internet became a common research tool?
 ## Stalled Questions
 (i.e. submitted papers, projects waiting for IRB, projects that need additional funding)
 - [[How much ESSER money has been allocated to tutoring]]?
