@@ -12,6 +12,7 @@ replit.nix
 
 # Ignore CSV files (Comma-Separated Values)
 *.csv
+google-analytics.py
 
 # Ignore Excel files
 *.xls
