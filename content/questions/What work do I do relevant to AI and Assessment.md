@@ -15,7 +15,7 @@ title: What work do I do relevant to AI and Assessment
 
  I am a Post-doctoral Fellow for the Strategic Data Project at the Center for Education Policy Research. Through that appointment, I am the Director of Data Science at the national grant-making non-profit, Accelerate. Before that, I received my PhD in English and Education from University of Michigan.
 
-My research relevant to AI and Assessment has three on-going avenues.
+My research relevant to AI and Assessment has three on-going avenues. Because individual speaking time is short, and discussion time is long. I aim for breadth rather than depth, hoping you'll find at least one area of overlapping interest.
 
 ---
 # Do standardized essay tests accurately predict college-level writing ability?
@@ -32,7 +32,7 @@ The figure below shows the final Quadratic Weighted Kappa scores for the most pe
 ---
 # Can we use LLMs to generate a corpus of student-level writing?
 
-Generating simulated student writing presents significant challenges, as highlighted in recent research [1](https://arxiv.org/abs/2410.08058) [2](https://arxiv.org/abs/2405.11591). Existing approaches primarily rely on prompting large language models (LLMs) to generate essays without reference texts, limiting their alignment with authentic student writing. This project seeks to develop a simulated corpus in which each generated essay corresponds 1:1 with an actual student essay, maintaining linguistic similarity while ensuring that no named entities or _n_-grams of length < 3 remain intact.
+Generating simulated student writing presents significant challenges, as highlighted in recent research [1](https://arxiv.org/abs/2410.08058) [2](https://arxiv.org/abs/2405.11591) [3](https://arxiv.org/abs/2502.16178). Existing approaches primarily rely on prompting large language models (LLMs) to generate essays without reference texts, limiting their alignment with authentic student writing. This project seeks to develop a simulated corpus in which each generated essay corresponds 1:1 with an actual student essay, maintaining linguistic similarity while ensuring that no named entities or _n_-grams of length < 3 remain intact.
 
 As part of an [NSF-funded initiative](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2302564) in collaboration with the University of Michigan's LAUNCH Lab, this work aims to create a corpus that preserves linguistic characteristics of student writing while safeguarding privacy and intellectual property. The ultimate goal is to produce a resource sufficiently distinct from its source texts to mitigate risks of re-identification, yet valuable for researchers studying student writing. Ideally, this corpus could serve as an addendum to the MICUSP corpus, though further development is required to achieve this vision.
 
