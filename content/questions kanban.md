@@ -15,11 +15,11 @@ kanban-plugin: board
 - [ ] [[How much ESSER money was spent on direct student services]]
 - [ ] [[What's so high about tutoring anyway-Dosage Quality Impact]]
 - [ ] [[What would happen if federal education funding was allocated through block grants]]
-- [ ] What are principles for an ethical framework for GenAI use in writing programs
 
 
 ## stalled
 
+- [ ] What are principles for an ethical framework for GenAI use in writing programs
 
 
 ## published
