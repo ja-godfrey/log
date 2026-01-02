@@ -12,7 +12,7 @@ Each question is its own page, so feel free to click through and see what I've b
 
 ## Answered Questions
 (i.e. published, presented, or posted work. Excludes most conference papers)
-- [[Are essay-based tests a reliable metric student performance on college-level writing tasks]]?
+- [[Are essay-based tests a reliable metric of student performance on college-level writing tasks]]?
 - [[Do students select first-year class placements differently by race, sex, SES]]?
 - [[What do student reflections reveal about SSP ecological impacts]]?
 - [[How do alumni describe the effects of college]]?
