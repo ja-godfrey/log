@@ -15,7 +15,7 @@ Try it here: [overlap](https://ja-godfrey.github.io/top100_movies/)
 
 It looks like this:
 
-![[img/ja-godfrey.github.io_top100_movies_.png]]
+[![](img/ja-godfrey.github.io_top100_movies_.png)](https://ja-godfrey.github.io/top100_movies/ )
 
 Follow-up questions:
 1. Do different professions cluster towards specific movies/genres? (e.g. Do actors really like actor-focused films while cinematographers lean towards more cinematic films)
