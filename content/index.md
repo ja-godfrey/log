@@ -19,6 +19,7 @@ Each question is its own page, so feel free to click through and see what I've b
 - [[Do students learn during one-shot library sessions]]?
 - [[Are video metrics useful for course assessment in online writing instruction]]?
 - [[Where does Accelerate have grantees]]?
+- [[The Most Expensive Party Balloon in History]]?
 - [How could we incorporate LLMs into on-going curriculum](https://the-learning-agency.com/the-cutting-ed/article/treat-genai-like-you-treat-google-search/)?
 
 ## Open Questions
