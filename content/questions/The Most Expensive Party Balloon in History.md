@@ -2,17 +2,18 @@
 title: The Most Expensive Party Balloon in History
 date: 2026-02-12
 draft: false
+description: A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's what it cost.
 tags:
-  - "#El Paso"
-  - "#aviation"
-  - "#analysis"
+  - "#small-question"
+  - "#data"
+  - "#public-sources"
 image: img/cartel-party-balloon.png
 ---
-A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's what it cost.
+> A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's what it cost.
 
 On February 10, 2026, the FAA shut down all flights over El Paso for what was supposed to be 10 days because the U.S. military had shot down what it thought was a drone. It turned out to be a party balloon. The closure was lifted within hours, but not before 15 flights were canceled, others delayed by hours, medevacs rerouted to Las Cruces, and Fort Bliss grounded.
 
-So, how much did it cost? Is this the most expensive party balloon in history?
+So, how much did it cost?
 
 **Here's my method for answering that question.** I used only public, citable data. I reconstructed the timeline, built a flight dataset, classified cancellations and delays, converted disruption into passenger-hours and labor-hours, and monetized it with USDOT value-of-time guidance. I then applied sanity checks and documented all assumptions. Below is the analysis.
 
@@ -30,12 +31,12 @@ So, how much did it cost? Is this the most expensive party balloon in history?
 
 ## 2. Flight Universe
 
-| Category | Count | Source / Confidence |
-|----------|-------|---------------------|
-| Canceled (true) | 8 | Business Insider / Flightradar24 — **High** |
-| Delayed | 7 | El Paso Times, inferred — **Medium** |
-| Diverted | 1 | Business Insider (Sierra West cargo to Las Cruces) — **High** |
-| Disrupted passengers (est.) | ~1600 | Schedule + load factor 80% — **Low** |
+| Category | Count | Source | Confidence |
+|----------|-------|--------|------------|
+| Canceled (true) | 8 | Business Insider / Flightradar24 | **High** |
+| Delayed | 7 | El Paso Times, inferred | **Medium** |
+| Diverted | 1 | Business Insider (Sierra West cargo to Las Cruces) | **High** |
+| Disrupted passengers (est.) | ~1600 | Schedule + load factor 80% | **Low** |
 
 Southwest, American, and Delta canceled 15 flights in and out of El Paso before the FAA lifted the restriction ([Business Insider](https://www.businessinsider.com/el-paso-flights-halted-10-days-security-reasons-airlines-faa-2026-2)). Departing aircraft experienced average delays of over three hours. Specific examples from El Paso Times: 6 AM to Phoenix delayed to 5:55 PM; 5:30 AM to Dallas Love delayed to 9 AM; 6:04 AM to DFW delayed to noon.
 
@@ -80,7 +81,7 @@ The cost estimates here are based only on publicly available data. The true impa
 
 ## 5. Sanity Check
 
-El Paso Rep. Chris Canales estimated a **10-day** closure could cost El Paso $40–50 million ([El Paso Times](https://elpasotimes.com/story/news/2026/02/11/live-updates-flights-at-el-paso-airport-grounded-for-10-days/88621302007)). My estimate is for the **actual ~7-hour** disruption. Scaling linearly: 7.4 hrs / (10 × 24) ≈ 3.1% of a 10-day scenario → $1.2–1.6M would be roughly proportional. My mid estimate of ~$573K falls below that estimate, as I guessed it would due to only including public data. ELP typically has ~55 departures and ~106 total daily operations; the disruption affected the overnight/early-morning bank.
+El Paso Rep. Chris Canales estimated a **10-day** closure could cost El Paso 40–50 million dollars ([El Paso Times](https://elpasotimes.com/story/news/2026/02/11/live-updates-flights-at-el-paso-airport-grounded-for-10-days/88621302007)). My estimate is for the **actual ~7-hour** disruption. Scaling linearly: 7.4 hrs / (10 × 24) ≈ 3.1% of a 10-day scenario → $1.2–1.6M would be roughly proportional. My mid estimate of ~$573K falls below that estimate, as I guessed it would due to only including public data. ELP typically has ~55 departures and ~106 total daily operations; the disruption affected the overnight/early-morning bank.
 
 ---
 
