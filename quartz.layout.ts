@@ -1,6 +1,21 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+const explorerOpts = {
+  folderDefaultState: "open" as const,
+  filterFn: (node: any) => node.name !== "tags" && node.name !== "_archive",
+  mapFn: (node: any) => {
+    if (!node.file) {
+      const names: Record<string, string> = {
+        "education-policy": "Education Policy & Data Science",
+        "writing-ai": "Writing, Assessment & AI",
+        "cultural-analytics": "Cultural Analytics",
+      }
+      if (names[node.name]) node.displayName = names[node.name]
+    }
+  },
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -27,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(explorerOpts)),
   ],
   right: [
     Component.Graph(),
@@ -44,7 +59,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(explorerOpts)),
   ],
   right: [],
 }

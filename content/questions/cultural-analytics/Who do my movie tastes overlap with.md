@@ -33,3 +33,7 @@ Follow-up questions:
 13. In what ways is the distribution of these films similar to/divergent from the mean corpus of released films (box office, length of theatrical stay, budget, awards, runtime, number of billed cast, etc...)
 14. How do the films identified here align with/diverge from the film studies canon that will emerge from this era? !remindme 100 years
 
+## See also
+
+- [[How saturated is the box office with franchise films]]
+- [[Does an Oscar nomination boost box office revenue]]

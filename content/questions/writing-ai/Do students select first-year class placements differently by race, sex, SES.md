@@ -16,6 +16,8 @@ tags:
   - "#published"
   - "#grad-school"
 ---
+[Read it in *Assessing Writing* →](https://www.sciencedirect.com/science/article/pii/S1075293522000678)
+
 The fully published article has more information, but here is the abbreviated answer to the question:
 
 1. Women are more likely than men to be recommended for FYW (59.9% vs. 52.9%) and have a small but significant effect size of 0.141 (p < 0.001).
@@ -29,3 +31,11 @@ The full paper can be found <a href="https://www.sciencedirect.com/science/artic
 
 **Citation:**
 Tinkle, T., Godfrey, J., Menon, A. R., Moos, A., Romaine, L., & Sprouse, M. (2022). (In)Equities in directed self-placement. _Assessing Writing_, _54_, 100671. [https://doi.org/10.1016/j.asw.2022.100671](https://doi.org/10.1016/j.asw.2022.100671)
+
+## See also
+
+- [[How do academic advisors influence student writing course selection]]
+- [[What do student reflections reveal about SSP ecological impacts]]
+- [[How does course recommendation impact student outcomes]]
+- [[How does social justice inform writing placement administration]]
+- [[Are essay-based tests a reliable metric of student performance on college-level writing tasks]]

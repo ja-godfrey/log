@@ -8,6 +8,8 @@ tags:
   - "#MA"
   - "#published"
 ---
+[Read the thesis on ProQuest →](https://www.proquest.com/docview/2551568206/abstract/A2A390E669C6446APQ/1)
+
 This was my Master's thesis! We piloted the first iteration of the online First-year writing (FYW) course with this Master's in 2018. We got it running smooth as butter just in time for COVID to force everyone online. Great timing for an unfortunate turn of events.
 
 Anyway, here is the abstract:

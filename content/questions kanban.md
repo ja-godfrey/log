@@ -16,45 +16,45 @@ kanban-plugin: board
 
 ## stalled
 
-- [ ] What are principles for an ethical framework for GenAI use in writing programs
+- [ ] [[What are principles for an ethical framework for GenAI use in writing programs]]
 - [ ] What are best practices for using GenAI in writing placement? #JoWA/2025
 
 
-## published
+## done
 
 - [x] [[How can states continue pandemic-era direct student services post-ESSER]]
 - [x] [[Do students select first-year class placements differently by race, sex, SES]]
-- [x] [[What do student reflections reveal about SSP ecological impact?]]
+- [x] [[What do student reflections reveal about SSP ecological impacts]]
 - [x] [[How do alumni describe the effects of college]]
 - [x] [[How do alumni describe how their college writing experiences affected their careers]]
-- [ ] [[What have the states leading recovery learned after two years of tutoring implementation]]
 - [x] [[How does the narrator's perspective inform popular interpretations of Northanger Abbey]]
 - [x] [[Are video metrics useful for course assessment in online writing instruction]]
 - [x] [[How do academic advisors influence student writing course selection]]
 - [x] [[Are essay-based tests a reliable metric of student performance on college-level writing tasks]]
 - [x] [[Do students learn during one-shot library sessions]]
-- [ ] How can state education agencies break data siloes around high dosage tutoring? #AREA/2026
-- [ ] Is federal data around ESSER spending reliable? #AERA/2026
-- [ ] How do TAs perceive LLM-generated feedback? #AERA/2026
-
-
-## posted
-
-
-
-## to be presented
-
-- [ ] [[How much ESSER money  has been allocated to tutoring]] #AERA/2025
-- [ ] [[Are the districts that received additional state funds for tutoring in Delaware different than the average district]] #AERA/2025
-- [ ] [[Can AI tutor help students have more process-oriented writing approach]]  #AERA/2025
-- [ ] [[What approaches to tutoring have worked for Colorado DoE so far]] #AERA/2025
-- [ ] [[How can we Engineer Data-Informed Approaches to High-Dosage Tutoring at Scale]] #HCI/2025
+- [x] [[What have the states leading recovery learned after two years of tutoring implementation]]
+- [x] [[Does an Oscar nomination boost box office revenue]]
+- [x] [[How big was the 2024 Oscar nomination bump]]
+- [x] [[Did the 2026 nominations follow the 2024 pattern]]
+- [x] [[Is the Oscar nomination bump consistent across years]]
+- [x] [[Does the Oscar calendar affect the nomination bump]]
+- [x] [[Does the Oscar calendar affect the win bump]]
+- [x] [[How much is an Oscar win worth at the box office]]
+- [x] [[Who are the most accurate Oscar pundits]]
+- [x] [[How saturated is the box office with franchise films]]
+- [x] [[How can we engineer data-informed tutoring at scale]]
+- [x] [[How does social justice inform writing placement administration]]
+- [x] [[How much has the US spent on high-dosage tutoring]]
+- [x] [[How does course recommendation impact student outcomes]]
+- [x] [[If the money moves do the metrics move too]]
+- [x] [[How should educators treat GenAI in the classroom]]
+- [x] [[What are common patterns in mislabeling AI development]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

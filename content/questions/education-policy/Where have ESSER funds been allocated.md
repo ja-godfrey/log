@@ -27,4 +27,11 @@ To make this chart more helpful, I've supplemented the federal ESSER data with s
 
 <iframe src="state-esser-allocations-per-student" width="100%" height="600px" frameborder="0"></iframe>
 
-This is more revealing and useful data. First, it is normally distributed (Shapiro Wilk 0.9885, p=0.899), so we could do some follow-up analyses. 
+This is more revealing and useful data. First, it is normally distributed (Shapiro Wilk 0.9885, p=0.899), so we could do some follow-up analyses.
+
+## See also
+
+- [[ESSER Data Snapshots]]
+- [[How were ESSER funds spent]]
+- [[Where have ESSER funds been allocated to tutoring]]
+- [[How much has the US spent on high-dosage tutoring]]

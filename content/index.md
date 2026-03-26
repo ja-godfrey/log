@@ -1,60 +1,67 @@
 ---
-title: Welcome to my question collection!
-date: 
+title: Research Portfolio
+date:
 draft: false
 tags:
 ---
-👋 Hello 👋 
+This is a portfolio of research questions I've answered and the ones I'm still working on. The work clusters into three interconnected strands: education policy and data science, writing assessment and AI, and cultural analytics. Methods are the membranes between strands — causal inference, NLP, and data science show up everywhere, so questions in one strand often connect to questions in another.
 
-This is a portfolio of the questions I've answered, as well as the ones I'm still working on! 
+## Education Policy & Data Science
 
-Each question is its own page, so feel free to click through and see what I've been up to.
+As Director of Data Science at Accelerate and a Harvard Strategic Data Project Fellow, I work on understanding how pandemic-era education funding was spent, whether high-dosage tutoring programs are effective, and how states can build data infrastructure to answer these questions going forward.
 
-## Answered Questions
-(i.e. published, presented, or posted work. Excludes most conference papers)
-- [[Are essay-based tests a reliable metric of student performance on college-level writing tasks]]?
-- [[Do students select first-year class placements differently by race, sex, SES]]?
-- [[What do student reflections reveal about SSP ecological impacts]]?
-- [[How do alumni describe the effects of college]]?
-- [[Do students learn during one-shot library sessions]]?
-- [[Are video metrics useful for course assessment in online writing instruction]]?
+### Published
+- [[How can states continue pandemic-era direct student services post-ESSER]]?
+- [[If the money moves do the metrics move too]]?
+- [[What have the states leading recovery learned after two years of tutoring implementation]]?
+- [[How much has the US spent on high-dosage tutoring]]?
+- [[How can we engineer data-informed tutoring at scale]]?
 - [[Where does Accelerate have grantees]]?
-- [[The Most Expensive Party Balloon in History]]?
-- [How could we incorporate LLMs into on-going curriculum](https://the-learning-agency.com/the-cutting-ed/article/treat-genai-like-you-treat-google-search/)?
-
-## Open Questions
-(i.e. working papers)
 - [[Where have ESSER funds been allocated to tutoring]]?
 - [[Where have ESSER funds been allocated]]?
 - [[How were ESSER funds spent]]?
-- How does career satisfaction vary by childhood socio-economic status?
-- Does self-placement have an impact on student outcomes?
-- How did citation practices in student research papers change during the early internet?
-- What do we learn about student research from their citation practices?
-- How does public discourse around the 1619 project vary by political affiliation?
-- How did student citation patterns change as the internet became a common research tool?
-## Stalled Questions
-(i.e. submitted papers, projects waiting for IRB, projects that need additional funding)
-- [[How much ESSER money has been allocated to tutoring]]?
-- [[Are the districts that received additional state funds for tutoring in Delaware different than the average district]]?
-- [[Can AI tutor help students have more process-oriented writing approach]]?
-- [[What approaches to tutoring have worked for Colorado DoE so far]]?
-- How influential are advising sessions for student placement?
+- [[ESSER Data Snapshots]]
 
-## Quick questions
-(i.e. one-off charts/infographics)
-- [[How much ESSER funding was allocated to each state]]?
-- [[How much ESSER funding was allocated per student]]?
-- [[What is the distribution of ESSER funding allocated per student]]?
-- [[What percent of ESSER funds are spent]]?
-- [[What did the states spend their ESSER money on]]?
-- [[ What data sources did states use to identify students disproportionately impacted by COVID-19]]?
-- [[How many data sources did states use to identify students disproportionately impacted by COVID-19]]?
-- [[Did the state directly administer activities to address the learning loss of students disproportionately impacted by COVID-19]]?
-- [[Did the state award ESSER SEA Reserve Funds to local educational agencies (LEAs) during the reporting period]]?-
-- [[Did the state award ESSER SEA Reserve Funds to non-LEA entities during the reporting period]]?-
-- [[Did the state award ARP ESSER Learning Loss Funds to LEAs during the reporting period]]?-
-- [[Did the state award ARP ESSER Summer Enrichment Funds to LEAs during the reporting period]]?-
-- [[Did the state award ARP ESSER Afterschool Program Funds to LEAs during the reporting period]]?-
-- [[Did the state award ARP ESSER Other Reserve Funds to LEAs during the reporting period]]?-
+### Open
+- [[What would an open standard for tutoring data look like]]?
+- What's so high about tutoring anyway — dosage, quality, impact?
 
+## Writing, Assessment & AI
+
+My PhD at University of Michigan centered on placement equity: whether standardized tests reliably sort students into writing courses, and what happens when students get a say. That thread extends into alumni outcomes, GenAI policy, and — most recently — NLP research on how AI development itself is characterized.
+
+### Published
+- [[Are essay-based tests a reliable metric of student performance on college-level writing tasks]]?
+- [[Do students select first-year class placements differently by race, sex, SES]]?
+- [[How do academic advisors influence student writing course selection]]?
+- [[What do student reflections reveal about SSP ecological impacts]]?
+- [[How does social justice inform writing placement administration]]?
+- [[How does course recommendation impact student outcomes]]?
+- [[How do alumni describe the effects of college]]?
+- [[How do alumni describe how their college writing experiences affected their careers]]?
+- [[Do students learn during one-shot library sessions]]?
+- [[Are video metrics useful for course assessment in online writing instruction]]?
+- [[How should educators treat GenAI in the classroom]]?
+- [[What are common patterns in mislabeling AI development]]?
+- [[How does the narrator's perspective inform popular interpretations of Northanger Abbey]]?
+
+### Stalled
+- [[What are principles for an ethical framework for GenAI use in writing programs]]?
+- What are best practices for using GenAI in writing placement?
+
+## Cultural Analytics
+
+The same causal inference and data science toolkit I use for education policy also applies to entertainment industry data. Through the CPR/Film Substack, I study Oscar economics, franchise saturation, and other questions about how the movie business works.
+
+### Published
+- [[Does an Oscar nomination boost box office revenue]]?
+- [[How big was the 2024 Oscar nomination bump]]?
+- [[Did the 2026 nominations follow the 2024 pattern]]?
+- [[Is the Oscar nomination bump consistent across years]]?
+- [[Does the Oscar calendar affect the nomination bump]]?
+- [[Does the Oscar calendar affect the win bump]]?
+- [[How much is an Oscar win worth at the box office]]?
+- [[Who are the most accurate Oscar pundits]]?
+- [[How saturated is the box office with franchise films]]?
+- [[Who do my movie tastes overlap with]]?
+- [[The Most Expensive Party Balloon in History]]?
