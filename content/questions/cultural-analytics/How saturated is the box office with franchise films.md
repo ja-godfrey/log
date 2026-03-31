@@ -8,6 +8,8 @@ tags:
   - "#box-office"
   - "#published"
 ---
+[Read it in *Reel Metrics* →](https://cprfilm.substack.com/p/examining-the-franchise-economy)
+
 **Short answer:** Franchise films (sequels, reboots, remakes, spinoffs) account for roughly 20% of wide-release titles but capture approximately 66% of total box office dollars in the U.S. market (2000-2025).
 
 ## Key findings

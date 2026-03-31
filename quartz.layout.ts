@@ -4,6 +4,24 @@ import * as Component from "./quartz/components"
 const explorerOpts = {
   folderDefaultState: "open" as const,
   filterFn: (node: any) => node.name !== "tags" && node.name !== "_archive",
+  sortFn: (a: any, b: any) => {
+    if (a.file && !b.file) return 1
+    if (!a.file && b.file) return -1
+    if (!a.file && !b.file) {
+      const order: Record<string, number> = {
+        "education-policy": 0,
+        "writing-ai": 1,
+        "cultural-analytics": 2,
+      }
+      const aOrder = order[a.name] ?? 99
+      const bOrder = order[b.name] ?? 99
+      if (aOrder !== 99 || bOrder !== 99) return aOrder - bOrder
+    }
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  },
   mapFn: (node: any) => {
     if (!node.file) {
       const names: Record<string, string> = {

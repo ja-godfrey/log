@@ -8,6 +8,8 @@ tags:
   - "#box-office"
   - "#published"
 ---
+[Read it in *Reel Metrics* →](https://cprfilm.substack.com/p/who-is-the-best-at-predicting-oscar)
+
 **Short answer:** Among pundits tracked across all five years (2021-2025), Scott Feinberg of *The Hollywood Reporter* leads with 80.4% accuracy across all 23 Oscar categories.
 
 ## Key findings

@@ -9,6 +9,8 @@ tags:
   - "#box-office"
   - "#published"
 ---
+[Read it in *Reel Metrics* →](https://cprfilm.substack.com/p/whats-an-oscar-win-actually-worth)
+
 **Short answer:** The marginal value of the trophy itself — above and beyond the nomination bump that all nominees already received weeks earlier — is estimated via a DiD comparing Best Picture winners to non-winning nominees on ceremony night.
 
 ## Key findings

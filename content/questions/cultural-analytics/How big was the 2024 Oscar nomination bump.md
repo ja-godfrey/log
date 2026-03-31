@@ -9,6 +9,8 @@ tags:
   - "#box-office"
   - "#published"
 ---
+[Read it in *Reel Metrics* →](https://cprfilm.substack.com/p/need-a-quick-2-million-get-nominated)
+
 **Short answer:** The 2024 Oscar nomination announcement produced a +183% increase in daily gross revenue for Best Picture nominees, translating to roughly $282K per day more than comparable non-nominees.
 
 ## Key findings

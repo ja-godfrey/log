@@ -53,7 +53,7 @@ My PhD at University of Michigan centered on placement equity: whether standardi
 
 The same causal inference and data science toolkit I use for education policy also applies to entertainment industry data. Through the CPR/Film Substack, I study Oscar economics, franchise saturation, and other questions about how the movie business works.
 
-### Published
+### "Published"
 - [[Does an Oscar nomination boost box office revenue]]?
 - [[How big was the 2024 Oscar nomination bump]]?
 - [[Did the 2026 nominations follow the 2024 pattern]]?

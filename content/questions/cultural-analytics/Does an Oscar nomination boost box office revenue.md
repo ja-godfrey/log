@@ -9,6 +9,8 @@ tags:
   - "#box-office"
   - "#published"
 ---
+[Read it in *Reel Metrics* →](https://cprfilm.substack.com/p/an-oscar-nomination-earns-an-extra)
+
 **Short answer:** Nominations redirect revenue from non-nominees to nominees but do not expand the total market. A regression discontinuity design across 27 ceremony years (2000-2026) finds a market share shift of +4.1 percentage points (p=0.009) with no evidence of total market growth.
 
 ## Key findings
