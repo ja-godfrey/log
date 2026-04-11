@@ -37,3 +37,8 @@ google-analytics.py
 
 #custom
 nothing.txt
+
+# Claude Code local files (not pushed)
+CLAUDE.md
+.claude/
+memory/

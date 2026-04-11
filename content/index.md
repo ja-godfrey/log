@@ -15,6 +15,7 @@ As Director of Data Science at Accelerate and a Harvard Strategic Data Project F
 - [[If the money moves do the metrics move too]]?
 - [[What have the states leading recovery learned after two years of tutoring implementation]]?
 - [[How much has the US spent on high-dosage tutoring]]?
+- [[How usable is the federal ESSER expenditure dataset for research]]?
 - [[How can we engineer data-informed tutoring at scale]]?
 - [[Where does Accelerate have grantees]]?
 - [[Where have ESSER funds been allocated to tutoring]]?
@@ -63,5 +64,6 @@ The same causal inference and data science toolkit I use for education policy al
 - [[How much is an Oscar win worth at the box office]]?
 - [[Who are the most accurate Oscar pundits]]?
 - [[How saturated is the box office with franchise films]]?
+- [[Why are movies getting longer]]?
 - [[Who do my movie tastes overlap with]]?
 - [[The Most Expensive Party Balloon in History]]?

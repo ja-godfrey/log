@@ -12,6 +12,7 @@ kanban-plugin: board
 
 - [ ] [[What would an open standard for tutoring data look like]]
 - [ ] [[What's so high about tutoring anyway-Dosage Quality Impact]]
+- [ ] Do cosine-similarity metrics correctly identify LLM model collapse? #NeurIPS/2026
 
 
 ## stalled
@@ -42,6 +43,8 @@ kanban-plugin: board
 - [x] [[How much is an Oscar win worth at the box office]]
 - [x] [[Who are the most accurate Oscar pundits]]
 - [x] [[How saturated is the box office with franchise films]]
+- [x] [[Why are movies getting longer]]
+- [x] [[How usable is the federal ESSER expenditure dataset for research]]
 - [x] [[How can we engineer data-informed tutoring at scale]]
 - [x] [[How does social justice inform writing placement administration]]
 - [x] [[How much has the US spent on high-dosage tutoring]]
