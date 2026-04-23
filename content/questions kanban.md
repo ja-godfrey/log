@@ -43,6 +43,7 @@ kanban-plugin: board
 - [x] [[How much is an Oscar win worth at the box office]]
 - [x] [[Who are the most accurate Oscar pundits]]
 - [x] [[How saturated is the box office with franchise films]]
+- [x] [[How did Disney come to dominate the box office]]
 - [x] [[Why are movies getting longer]]
 - [x] [[How usable is the federal ESSER expenditure dataset for research]]
 - [x] [[How can we engineer data-informed tutoring at scale]]
