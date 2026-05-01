@@ -15,6 +15,8 @@ As Director of Data Science at Accelerate and a Harvard Strategic Data Project F
 - [[If the money moves do the metrics move too]]?
 - [[What have the states leading recovery learned after two years of tutoring implementation]]?
 - [[How much has the US spent on high-dosage tutoring]]?
+- [[Why is scaling high-dosage tutoring a measurement problem]]?
+- [[Will new grants without measurement systems work]]?
 - [[How usable is the federal ESSER expenditure dataset for research]]?
 - [[How can we engineer data-informed tutoring at scale]]?
 - [[Where does Accelerate have grantees]]?

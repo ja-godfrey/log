@@ -45,6 +45,8 @@ kanban-plugin: board
 - [x] [[How saturated is the box office with franchise films]]
 - [x] [[How did Disney come to dominate the box office]]
 - [x] [[Why are movies getting longer]]
+- [x] [[Why is scaling high-dosage tutoring a measurement problem]]
+- [x] [[Will new grants without measurement systems work]]
 - [x] [[How usable is the federal ESSER expenditure dataset for research]]
 - [x] [[How can we engineer data-informed tutoring at scale]]
 - [x] [[How does social justice inform writing placement administration]]
