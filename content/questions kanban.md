@@ -44,6 +44,7 @@ kanban-plugin: board
 - [x] [[Who are the most accurate Oscar pundits]]
 - [x] [[How saturated is the box office with franchise films]]
 - [x] [[How did Disney come to dominate the box office]]
+- [x] [[Are original films more unequal than franchise films]]
 - [x] [[Why are movies getting longer]]
 - [x] [[Why is scaling high-dosage tutoring a measurement problem]]
 - [x] [[Will new grants without measurement systems work]]

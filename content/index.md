@@ -67,6 +67,7 @@ The same causal inference and data science toolkit I use for education policy al
 - [[Who are the most accurate Oscar pundits]]?
 - [[How saturated is the box office with franchise films]]?
 - [[How did Disney come to dominate the box office]]?
+- [[Are original films more unequal than franchise films]]?
 - [[Why are movies getting longer]]?
 - [[Who do my movie tastes overlap with]]?
 - [[The Most Expensive Party Balloon in History]]?
