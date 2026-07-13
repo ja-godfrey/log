@@ -4,20 +4,23 @@ date:
 draft: false
 tags:
 ---
+
 This is a portfolio of research questions I've answered and the ones I'm still working on. The work clusters into three interconnected strands: education policy and data science, writing assessment and AI, and cultural analytics. Methods are the membranes between strands — causal inference, NLP, and data science show up everywhere, so questions in one strand often connect to questions in another.
+
+**[[Talks|Browse selected talks and presentations →]]**
 
 ## Education Policy & Data Science
 
-As Director of Data Science at Accelerate and a Harvard Strategic Data Project Fellow, I work on understanding how pandemic-era education funding was spent, whether high-dosage tutoring programs are effective, and how states can build data infrastructure to answer these questions going forward.
+As Managing Director of Data & Information Systems at Accelerate and a Harvard Strategic Data Project Fellow, I work on understanding how pandemic-era education funding was spent, whether high-dosage tutoring programs are effective, and how states can build data infrastructure to answer these questions going forward.
 
 ### Published
+
 - [[How can states continue pandemic-era direct student services post-ESSER]]?
 - [[If the money moves do the metrics move too]]?
 - [[What have the states leading recovery learned after two years of tutoring implementation]]?
 - [[How much has the US spent on high-dosage tutoring]]?
 - [[Why is scaling high-dosage tutoring a measurement problem]]?
 - [[Will new grants without measurement systems work]]?
-- [[How usable is the federal ESSER expenditure dataset for research]]?
 - [[How can we engineer data-informed tutoring at scale]]?
 - [[Where does Accelerate have grantees]]?
 - [[Where have ESSER funds been allocated to tutoring]]?
@@ -26,6 +29,7 @@ As Director of Data Science at Accelerate and a Harvard Strategic Data Project F
 - [[ESSER Data Snapshots]]
 
 ### Open
+
 - [[What would an open standard for tutoring data look like]]?
 - What's so high about tutoring anyway — dosage, quality, impact?
 
@@ -34,6 +38,7 @@ As Director of Data Science at Accelerate and a Harvard Strategic Data Project F
 My PhD at University of Michigan centered on placement equity: whether standardized tests reliably sort students into writing courses, and what happens when students get a say. That thread extends into alumni outcomes, GenAI policy, and — most recently — NLP research on how AI development itself is characterized.
 
 ### Published
+
 - [[Are essay-based tests a reliable metric of student performance on college-level writing tasks]]?
 - [[Do students select first-year class placements differently by race, sex, SES]]?
 - [[How do academic advisors influence student writing course selection]]?
@@ -49,6 +54,7 @@ My PhD at University of Michigan centered on placement equity: whether standardi
 - [[How does the narrator's perspective inform popular interpretations of Northanger Abbey]]?
 
 ### Stalled
+
 - [[What are principles for an ethical framework for GenAI use in writing programs]]?
 - What are best practices for using GenAI in writing placement?
 
@@ -57,6 +63,7 @@ My PhD at University of Michigan centered on placement equity: whether standardi
 The same causal inference and data science toolkit I use for education policy also applies to entertainment industry data. Through the CPR/Film Substack, I study Oscar economics, franchise saturation, and other questions about how the movie business works.
 
 ### "Published"
+
 - [[Does an Oscar nomination boost box office revenue]]?
 - [[How big was the 2024 Oscar nomination bump]]?
 - [[Did the 2026 nominations follow the 2024 pattern]]?

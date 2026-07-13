@@ -11,14 +11,14 @@ tags:
   - "#SDP"
   - "#published"
 ---
-[Read it on arXiv →](http://arxiv.org/abs/2510.24899)
+[Read it on arXiv →](https://arxiv.org/abs/2510.24899)
 
-**Short answer:** Approximately $2.2 billion in district-level ESSER allocations were directed toward tutoring programs, estimated via an XGBoost model trained on district spending plans.
+**Short answer:** Approximately \$2.2 billion in district-level ESSER allocations were directed toward tutoring programs, estimated via an XGBoost model trained on district spending plans.
 
 ## Key findings
 
 - XGBoost model trained on district ESSER spending plans to classify tutoring expenditures
-- Estimates ~$2.2 billion in district tutoring allocations from the $190 billion ESSER program
+- Estimates ~\$2.2 billion in district tutoring allocations from the \$190 billion ESSER program
 - District-level expenditure analysis bridging the gap between federal allocation data and on-the-ground spending
 - Addresses the absence of a federal-level source that describes ESSER expenditures with tutoring detail
 

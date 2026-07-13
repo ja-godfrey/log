@@ -14,10 +14,10 @@ tags:
 
 ## Key findings
 
-- **The fan spreads.** The 90th-percentile franchise entry nearly doubled from $178M (2000) to $336M (2025) while the median stayed essentially flat ($65M → $64M). The 90/50 ratio grew from 2.7x to 5.3x — all of the category's growth happened at the top.
-- **The floor fell out.** The 10th-percentile franchise entry grossed $23M in 2000 and $8M in 2025. Franchise IP no longer guarantees meaningful box office — flops like *The Crow* ($9M on a $50M budget), *Madame Web* ($43M on $80M), and *Kraven the Hunter* ($25M on $110M) would have been unthinkable in the early 2000s.
+- **The fan spreads.** The 90th-percentile franchise entry nearly doubled from \$178M (2000) to \$336M (2025) while the median stayed essentially flat (\$65M → \$64M). The 90/50 ratio grew from 2.7x to 5.3x — all of the category's growth happened at the top.
+- **The floor fell out.** The 10th-percentile franchise entry grossed \$23M in 2000 and \$8M in 2025. Franchise IP no longer guarantees meaningful box office — flops like *The Crow* (\$9M on a \$50M budget), *Madame Web* (\$43M on \$80M), and *Kraven the Hunter* (\$25M on \$110M) would have been unthinkable in the early 2000s.
 - **Top-10 concentration.** Ten franchise families captured 47% of franchise revenue in 2021–25, up from 32% in 2000–07. The top three alone captured 24% (down from a 2015–19 peak of 31% when the MCU was at full strength).
-- **Originals are more unequal than franchises.** Franchise Gini: 0.44 → 0.57. Original Gini: 0.49 → 0.71. The gap tripled. A 0.57 Gini is roughly NBA player-salary inequality; 0.71 approaches S&P 500 market-cap inequality. The franchise floor (~$8M) is the difference — originals don't have one.
+- **Originals are more unequal than franchises.** Franchise Gini: 0.44 → 0.57. Original Gini: 0.49 → 0.71. The gap tripled. A 0.57 Gini is roughly NBA player-salary inequality; 0.71 approaches S&P 500 market-cap inequality. The franchise floor (~\$8M) is the difference — originals don't have one.
 - **"Franchise" is not a useful category.** The top 10 franchise families operate in a different market from the other 130+ active families. Aggregating them under a single label obscures more than it reveals.
 
 ## Data

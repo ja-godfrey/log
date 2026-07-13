@@ -1,2 +1,3 @@
 
-<iframe src="" width="100%" height="600px" frameborder="0"></iframe>
+<!-- Store a static export in content/img and update the filename and alt text below. -->
+![Describe the visualization](../img/visualization.png)

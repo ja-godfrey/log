@@ -20,7 +20,7 @@ The published paper can be found <a href="https://www.the74million.org/article/h
 
 **Citation:**
 
-Godfrey, J., & [[Kane, T.]] (2025, February 19). _How States Can Soften the Fall From the Fiscal Cliff [Newspaper]_. The 74 Million.
+Godfrey, J., & Kane, T. (2025, February 19). _How States Can Soften the Fall From the Fiscal Cliff [Newspaper]_. The 74 Million.
 
 ## See also
 

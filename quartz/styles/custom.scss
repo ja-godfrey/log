@@ -1,3 +1,114 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Talks use Quartz-native callouts so the page remains comfortable to edit in Obsidian.
+.talks-page {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.1rem;
+
+  & > :not(.callout) {
+    grid-column: 1 / -1;
+  }
+
+  & > .callout {
+    --color: var(--secondary);
+    --border: color-mix(in srgb, var(--secondary) 34%, transparent);
+    --bg: color-mix(in srgb, var(--secondary) 8%, var(--light));
+
+    grid-column: auto;
+    margin: 0;
+    padding: 0 1.15rem 1.1rem;
+    border-radius: 0.9rem;
+    box-shadow: 0 0.35rem 1.2rem rgba(0, 0, 0, 0.05);
+    transition:
+      transform 160ms ease,
+      border-color 160ms ease,
+      box-shadow 160ms ease;
+
+    &:hover {
+      transform: translateY(-2px);
+      border-color: var(--secondary);
+      box-shadow: 0 0.65rem 1.5rem rgba(0, 0, 0, 0.1);
+    }
+
+    .callout-title {
+      padding-bottom: 0.8rem;
+      font-size: 0.78rem;
+      letter-spacing: 0.055em;
+      text-transform: uppercase;
+    }
+
+    .callout-content {
+      display: flex;
+      min-height: 15rem;
+      flex-direction: column;
+
+      h3 {
+        margin: 0 0 0.65rem;
+        font-size: 1.24rem;
+        line-height: 1.2;
+      }
+
+      p {
+        margin: 0.5rem 0;
+      }
+
+      p:last-child {
+        margin-top: auto;
+        padding-top: 0.85rem;
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+@media all and (max-width: 800px) {
+  .talks-page {
+    grid-template-columns: 1fr;
+
+    & > .callout {
+      grid-column: 1;
+
+      .callout-content {
+        min-height: auto;
+      }
+    }
+  }
+}
+
+@media all and (max-width: 600px) {
+  .page > #quartz-body,
+  .page .center,
+  .page article {
+    min-width: 0;
+  }
+
+  .page > #quartz-body .sidebar.left {
+    width: 100%;
+  }
+
+  .page-title {
+    flex-shrink: 1;
+    min-width: 0;
+  }
+
+  .search {
+    flex: 0 0 2.25rem;
+    min-width: 2.25rem;
+    max-width: 2.25rem;
+
+    .search-button > p {
+      display: none;
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .talks-page > .callout {
+    transition: none;
+
+    &:hover {
+      transform: none;
+    }
+  }
+}

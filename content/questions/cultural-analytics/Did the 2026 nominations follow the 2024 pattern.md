@@ -9,7 +9,7 @@ tags:
   - "#box-office"
   - "#published"
 ---
-**Short answer:** The 2026 bump was much smaller: +55% (+$30K/day) compared to 2024's +183% (+$282K/day). The effect was 4x smaller in log-points and 10x smaller in dollars, driven largely by data limitations.
+**Short answer:** The 2026 bump was much smaller: +55% (+\$30K/day) compared to 2024's +183% (+\$282K/day). The effect was 4x smaller in log-points and 10x smaller in dollars, driven largely by data limitations.
 
 ## Key findings
 
@@ -25,7 +25,7 @@ tags:
 |--------|------|------|
 | DiD (log points) | +1.83 | +0.44 |
 | DiD (percent) | +183% | +55% |
-| DiD (dollars/day) | $282K | $30K |
+| DiD (dollars/day) | \$282K | \$30K |
 | Nominees matched | 9/10 | 5/10 |
 
 ## Publication

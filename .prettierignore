@@ -1,3 +1,6 @@
 public
 node_modules
 .quartz-cache
+# The content tree is authored in Obsidian. Keep Prettier away from prose and
+# Obsidian-specific Markdown while still checking the Quartz code and config.
+content

@@ -19,13 +19,13 @@ As we head towards that cliff, let's take a peak at the federal data and see whe
 
 First, here is a map that shows how much was allocated to each state.
 
-<iframe src="state-esser-allocations.html" width="100%" height="600px" frameborder="0"></iframe>
+![[state_esser_allocations.png|Map of total ESSER funding allocated to each state]]
 
 This provides good context, but it is not the most helpful breakdown, since it basically shows us that California and Texas are highly populous states.
 
 To make this chart more helpful, I've supplemented the federal ESSER data with some more federal data about total enrollment in public education per state. Now we can get a look at how much extra each state was able to spend per student.
 
-<iframe src="state-esser-allocations-per-student" width="100%" height="600px" frameborder="0"></iframe>
+![[state_esser_allocations_per_student.png|Map of ESSER funding allocated per public-school student by state]]
 
 This is more revealing and useful data. First, it is normally distributed (Shapiro Wilk 0.9885, p=0.899), so we could do some follow-up analyses.
 

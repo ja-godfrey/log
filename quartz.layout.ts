@@ -5,6 +5,14 @@ const explorerOpts = {
   folderDefaultState: "open" as const,
   filterFn: (node: any) => node.name !== "tags" && node.name !== "_archive",
   sortFn: (a: any, b: any) => {
+    const rootOrder: Record<string, number> = {
+      talks: 0,
+      questions: 1,
+    }
+    const aRootOrder = rootOrder[a.name] ?? 99
+    const bRootOrder = rootOrder[b.name] ?? 99
+    if (aRootOrder !== 99 || bRootOrder !== 99) return aRootOrder - bRootOrder
+
     if (a.file && !b.file) return 1
     if (!a.file && b.file) return -1
     if (!a.file && !b.file) {
@@ -41,8 +49,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/ja-godfrey",
+      LinkedIn: "https://www.linkedin.com/in/jasonmgodfrey/",
+      ORCID: "https://orcid.org/0000-0002-1977-9427",
     },
   }),
 }

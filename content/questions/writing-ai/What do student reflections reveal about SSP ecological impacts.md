@@ -25,7 +25,7 @@ The fully published article has more information, but here is the abbreviated an
 The published paper can be found <a href="https://escholarship.org/content/qt07c5j8tp/qt07c5j8tp_noSplash_de3bf87e95d7aa9c14b49d91b1bfa1f8.pdf" target="_blank">here</a>.
 
 **Citation**
-[[Tinkle, T]]., Godfrey, J., [[Hammond, J. W.]], [[Moos, A.]], & College, C. (2024). _Self-Characterization in the Self-Placement Assessment Ecology_.
+Tinkle, T., Godfrey, J., Hammond, J. W., & Moos, A. (2024). Self-Characterization in the Self-Placement Assessment Ecology: Complicating the Stories We Tell about DSP's Effects and Effectiveness. _Journal of Writing Assessment, 17_(1). [https://doi.org/10.5070/W4jwa.1625](https://doi.org/10.5070/W4jwa.1625)
 
 ## See also
 

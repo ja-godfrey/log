@@ -12,12 +12,12 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'google', 
-      tagId: 'G-09KK2TCTB4'
+      provider: "google",
+      tagId: "G-09KK2TCTB4",
     },
     locale: "en-US",
     baseUrl: "log.jasongodfrey.info",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "questions/_archive"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

@@ -11,9 +11,10 @@ tags:
   - "#DATAS"
   - "#published"
 ---
-[Read it on Springer →](https://link.springer.com/10.1007/978-3-031-92970-0)
 
-**Short answer:** Through an open data standard. The DATAS (Data Alignment and Tutoring Assessment Standards) initiative provides a technical standard and toolkit for tutoring data interoperability, addressing the fact that despite $1.4 billion in ESSER spending on high-dosage tutoring, there is insufficient standardized data to evaluate success.
+[Read the published chapter →](https://doi.org/10.1007/978-3-031-92970-0_2)
+
+**Short answer:** Through an open data standard. The DATAS (Data Alignment and Tutoring Assessment Standards) initiative provides a technical standard and toolkit for tutoring data interoperability, addressing the fact that despite \$1.4 billion in ESSER spending on high-dosage tutoring, there is insufficient standardized data to evaluate success.
 
 ## Key findings
 
@@ -24,7 +25,7 @@ tags:
 
 ## Publication
 
-Godfrey, J., & Ueyama, K. (2025). In *Lecture Notes in Computer Science*, vol. 15813. Springer. HCI International 2025.
+Godfrey, J., & Ueyama, K. (2025). Engineering data-informed approaches to high-dosage tutoring at scale. In _Adaptive Instructional Systems_ (pp. 15–31), _Lecture Notes in Computer Science_, vol. 15813. Springer. https://doi.org/10.1007/978-3-031-92970-0_2
 
 ## See also
 

@@ -35,6 +35,17 @@ google-analytics.py
 *.pkl
 *.pickle
 
+# Generated interactive exports and additional data artifacts
+*.html
+*.rda
+*.rds
+*.feather
+*.arrow
+*.dta
+*.sav
+*.sas7bdat
+*.geojson
+
 #custom
 nothing.txt
 

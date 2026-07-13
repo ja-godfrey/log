@@ -8,7 +8,7 @@ tags:
   - "#tutoring"
 ---
  
-In response to the COVID-19 pandemic, Congress allocated over $190 billion through the Elementary and Secondary School Emergency Relief (ESSER) funds, aiming to mitigate learning loss and support schools across the nation. But how have these funds actually been spent, and are they making the intended impact?
+In response to the COVID-19 pandemic, Congress allocated over \$190 billion through the Elementary and Secondary School Emergency Relief (ESSER) funds, aiming to mitigate learning loss and support schools across the nation. But how have these funds actually been spent, and are they making the intended impact?
 
 In this deep dive, we’ll analyze ESSER expenditure data to uncover how districts have allocated resources for technology, learning loss recovery, and infrastructure improvements. We'll also examine whether funds are reaching the most vulnerable communities, shedding light on the effectiveness of this historic investment.
 

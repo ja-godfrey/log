@@ -64,16 +64,16 @@ The cost estimates here are based only on publicly available data. The true impa
 | Airline/airport labor (est.) | ~200 | ~400 | ~700 |
 | Total hours (approx.) | ~5981 | ~7627 | ~9372 |
 
-*ASSUMPTION:* Value of time from USDOT 2016 guidance inflated to 2026 (~$44 personal, ~$81 business); 30% business / 70% personal mix. Canceled-passenger penalty: 4 hours (replacement travel).
+*ASSUMPTION:* Value of time from USDOT 2016 guidance inflated to 2026 (~\$44 personal, ~\$81 business); 30% business / 70% personal mix. Canceled-passenger penalty: 4 hours (replacement travel).
 
 ## 4. Dollar Impact
 
 | Component | Low | Mid | High |
 |-----------|-----|-----|------|
-| Passenger time cost | $279K | $398K | $518K |
-| Airline operational cost | $80K | $160K | $320K |
-| Airport incremental (scenario) | $5K | $15K | $35K |
-| **Total estimated impact** | **$364K** | **$573K** | **$873K** |
+| Passenger time cost | \$279K | \$398K | \$518K |
+| Airline operational cost | \$80K | \$160K | \$320K |
+| Airport incremental (scenario) | \$5K | \$15K | \$35K |
+| **Total estimated impact** | **\$364K** | **\$573K** | **\$873K** |
 
 *Quantified components only. See "Costs Without Public Data" above for uncosted factors that would increase total impact.*
 
@@ -81,11 +81,11 @@ The cost estimates here are based only on publicly available data. The true impa
 
 ## 5. Sanity Check
 
-El Paso Rep. Chris Canales estimated a **10-day** closure could cost El Paso 40–50 million dollars ([El Paso Times](https://elpasotimes.com/story/news/2026/02/11/live-updates-flights-at-el-paso-airport-grounded-for-10-days/88621302007)). My estimate is for the **actual ~7-hour** disruption. Scaling linearly: 7.4 hrs / (10 × 24) ≈ 3.1% of a 10-day scenario → $1.2–1.6M would be roughly proportional. My mid estimate of ~$573K falls below that estimate, as I guessed it would due to only including public data. ELP typically has ~55 departures and ~106 total daily operations; the disruption affected the overnight/early-morning bank.
+El Paso Rep. Chris Canales estimated a **10-day** closure could cost El Paso 40–50 million dollars ([El Paso Times](https://elpasotimes.com/story/news/2026/02/11/live-updates-flights-at-el-paso-airport-grounded-for-10-days/88621302007)). My estimate is for the **actual ~7-hour** disruption. Scaling linearly: 7.4 hrs / (10 × 24) ≈ 3.1% of a 10-day scenario → \$1.2–1.6M would be roughly proportional. My mid estimate of ~\$573K falls below that estimate, as I guessed it would due to only including public data. ELP typically has ~55 departures and ~106 total daily operations; the disruption affected the overnight/early-morning bank.
 
 ---
 
-**Conclusion.** There is no way to know if this was the most expensive party balloon in history. But I wouldn't pay $573k for one.
+**Conclusion.** There is no way to know if this was the most expensive party balloon in history. But I wouldn't pay \$573k for one.
 
 ---
 

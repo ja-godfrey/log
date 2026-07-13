@@ -16,7 +16,7 @@ tags:
 ## Key findings
 
 - Heterogeneous effects by film size: largest boost for limited-release films that gain theater expansion post-announcement
-- Market-level RD shows nominations redistribute roughly $15-20 million per cycle from non-nominees to nominees
+- Market-level RD shows nominations redistribute roughly \$15-20 million per cycle from non-nominees to nominees
 - No total market expansion: +6.9% (95% CI: [-5.4%, +20.7%], p=0.27)
 - Per-film revenue loss for non-nominees is non-significant (p=0.45) because losses are spread thinly across many titles
 - The Academy acts as an information signal, not a demand creator

@@ -18,7 +18,7 @@ tags:
 
 - The ESSER experience showed what happens when funds move faster than measurement: the federal expenditure record is too distorted (rounded estimates, placeholder values, structured missingness) to support causal or equity research at scale.
 - States that built data systems alongside their tutoring investments are the ones that can now describe what worked. The states that didn't are guessing.
-- Before authorizing the next wave of grants, Congress should require a baseline of interoperable measurement — common identifiers, standard schemas, audit trails — so the next $190B doesn't disappear into the same fog as the last one.
+- Before authorizing the next wave of grants, Congress should require a baseline of interoperable measurement — common identifiers, standard schemas, audit trails — so the next \$190B doesn't disappear into the same fog as the last one.
 
 ## Publication
 

@@ -29,7 +29,7 @@ The fully published article has more information, but here is the abbreviated an
 The published paper can be found <a href="https://muse.jhu.edu/pub/2/article/901196" target="_blank">here</a>.
 
 **Citation**
-[[Gere, A. R]]., Godfrey, J., [[Griffin, M.]], [[Hartwell, K. D.]], [[Ion, M.]], [[Limlamai, N.]], [[Moos, A.]], [[Pine, A. A.]], & [[van Zanen, K. ]](2021). Alumni Perspectives on Undergraduate Education: How Writing Can Increase What We Know. _The Journal of General Education_, _70_(1), 149–173. [https://muse.jhu.edu/pub/2/article/901196](https://muse.jhu.edu/pub/2/article/901196)
+Gere, A. R., Godfrey, J., Griffin, M., Hartwell, K. D., Ion, M., Limlamai, N., Moos, A., Pine, A. A., & van Zanen, K. (2021). Alumni Perspectives on Undergraduate Education: How Writing Can Increase What We Know. _The Journal of General Education_, _70_(1), 149–173. [https://muse.jhu.edu/pub/2/article/901196](https://muse.jhu.edu/pub/2/article/901196)
 
 ## See also
 

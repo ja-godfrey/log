@@ -14,7 +14,7 @@ tags:
 
 ## Key findings
 
-**Legs plateau around 135 minutes.** Across 3,310 wide releases earning $1M+, legs ratios climb modestly from ~2.8x at 90 minutes to ~3.3x near the 130-140-minute mark, then flatten and even dip slightly. The relationship is statistically significant (Spearman rho = 0.18, p < 0.001) but small. Pairwise tests confirm the gains concentrate between 90 and 135 minutes.
+**Legs plateau around 135 minutes.** Across 3,310 wide releases earning \$1M+, legs ratios climb modestly from ~2.8x at 90 minutes to ~3.3x near the 130-140-minute mark, then flatten and even dip slightly. The relationship is statistically significant (Spearman rho = 0.18, p < 0.001) but small. Pairwise tests confirm the gains concentrate between 90 and 135 minutes.
 
 ![[filmlength-legs.png]]
 
@@ -32,7 +32,7 @@ tags:
 
 ## Data
 
-CPRF Movie Database: ~5,000 wide-release films (500+ peak theaters, $1M+ gross) enriched with IMDb metadata, budget, MPAA rating, source material, Rotten Tomatoes critic and audience scores, and per-film theatrical run data. Replicates the broad strokes of Follows's findings on a different underlying dataset, suggesting the patterns are robust across data-collection choices.
+CPRF Movie Database: ~5,000 wide-release films (500+ peak theaters, \$1M+ gross) enriched with IMDb metadata, budget, MPAA rating, source material, Rotten Tomatoes critic and audience scores, and per-film theatrical run data. Replicates the broad strokes of Follows's findings on a different underlying dataset, suggesting the patterns are robust across data-collection choices.
 
 ## Publication
 

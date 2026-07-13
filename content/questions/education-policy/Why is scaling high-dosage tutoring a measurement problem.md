@@ -19,7 +19,7 @@ tags:
 
 - **State lessons (five-state collaboration).** Plan for data interoperability up front, minimize collection burden on schools, integrate tutoring data into broader state systems, and use transparency to drive improvement.
 - **Federal data lessons.** The Year-4 ESSER expenditure release shows systematic distortion — rounded estimates, repeated placeholder values, structured missingness — that limits what causal and equity research can ask of it.
-- **Synthesis.** Implementation challenges and data governance failures are the same problem viewed from two altitudes: poor measurement infrastructure prevented real-time understanding of how $190B was spent, and the same gap now constrains how high-dosage tutoring scales.
+- **Synthesis.** Implementation challenges and data governance failures are the same problem viewed from two altitudes: poor measurement infrastructure prevented real-time understanding of how \$190B was spent, and the same gap now constrains how high-dosage tutoring scales.
 
 ## Publication
 

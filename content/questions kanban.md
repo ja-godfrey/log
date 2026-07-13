@@ -1,12 +1,9 @@
 ---
-
 kanban-plugin: board
-
+draft: true
 ---
 
 ## not started
-
-
 
 ## doing
 
@@ -14,12 +11,10 @@ kanban-plugin: board
 - [ ] [[What's so high about tutoring anyway-Dosage Quality Impact]]
 - [ ] Do cosine-similarity metrics correctly identify LLM model collapse? #NeurIPS/2026
 
-
 ## stalled
 
 - [ ] [[What are principles for an ethical framework for GenAI use in writing programs]]
 - [ ] What are best practices for using GenAI in writing placement? #JoWA/2025
-
 
 ## done
 
@@ -57,11 +52,10 @@ kanban-plugin: board
 - [x] [[How should educators treat GenAI in the classroom]]
 - [x] [[What are common patterns in mislabeling AI development]]
 
-
-
-
 %% kanban:settings
+
 ```
 {"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
+
 %%
