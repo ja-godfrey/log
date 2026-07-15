@@ -2,6 +2,7 @@
 title: How were ESSER funds spent?
 date: 2024-08-23
 draft: false
+publish: true
 tags:
   - "#ESSER"
   - "#accelerate"

@@ -2,6 +2,7 @@
 title: How does the narrator's perspective inform popular interpretations of Northanger Abbey?
 date: 2024-01-01
 draft: false
+publish: true
 tags:
   - "#published"
   - "#grad-school"

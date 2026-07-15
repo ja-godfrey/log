@@ -2,6 +2,7 @@
 title: How do alumni describe how their college writing experiences affected their careers?
 date: 2024-08-17
 draft: false
+publish: true
 tags:
   - "#beyond-college"
   - "#anne-gere"

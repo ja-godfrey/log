@@ -14,7 +14,10 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
+    "build": "npx quartz build",
     "check": "tsc --noEmit && npx prettier . --check",
+    "check:publication": "node ./scripts/check-publication-policy.mjs ./content ./quartz.config.ts",
+    "check:site-output": "node ./scripts/check-site-output.mjs ./public",
     "format": "npx prettier . --write",
     "test": "tsx ./quartz/util/path.test.ts && tsx ./quartz/depgraph.test.ts",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"

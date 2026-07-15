@@ -2,6 +2,7 @@
 title: The Most Expensive Party Balloon in History
 date: 2026-02-12
 draft: false
+publish: true
 description: A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's what it cost.
 tags:
   - "#small-question"

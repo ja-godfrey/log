@@ -1,6 +1,7 @@
 ---
 date: 2025-12-26
 draft: false
+publish: true
 tags:
   - "#CPR/Film/Substack"
 title: Who do my movie tastes overlap with?

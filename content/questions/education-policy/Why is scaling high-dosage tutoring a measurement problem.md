@@ -2,6 +2,7 @@
 title: Why is scaling high-dosage tutoring a measurement problem?
 date: 2026-04-27
 draft: false
+publish: true
 tags:
   - "#accelerate"
   - "#tutoring"

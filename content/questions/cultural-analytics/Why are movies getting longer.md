@@ -2,6 +2,7 @@
 title: Why are movies getting longer?
 date: 2026-04-06
 draft: false
+publish: true
 tags:
   - "#CPR/Film/Substack"
   - "#data-science"

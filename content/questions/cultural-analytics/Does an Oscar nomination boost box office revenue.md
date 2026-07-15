@@ -2,6 +2,7 @@
 title: Does an Oscar nomination boost box office revenue?
 date: 2026-03-15
 draft: false
+publish: true
 tags:
   - "#CPR/Film/Substack"
   - "#RD"

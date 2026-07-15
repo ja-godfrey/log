@@ -2,6 +2,7 @@
 title: If the money moves do the metrics move too?
 date: 2025-07-01
 draft: false
+publish: true
 tags:
   - "#accelerate"
   - "#tutoring"

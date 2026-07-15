@@ -2,6 +2,7 @@
 title: How big was the 2024 Oscar nomination bump?
 date: 2024-03-15
 draft: false
+publish: true
 tags:
   - "#CPR/Film/Substack"
   - "#DiD"

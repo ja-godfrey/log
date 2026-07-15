@@ -26,5 +26,9 @@ jobs:
         run: npx tsc --noEmit
       - name: Run tests
         run: npm test
+      - name: Verify publication policy
+        run: npm run check:publication
       - name: Build site
-        run: npx quartz build
+        run: npm run build
+      - name: Verify generated site
+        run: npm run check:site-output

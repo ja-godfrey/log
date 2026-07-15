@@ -2,6 +2,7 @@
 title: Does the Oscar calendar affect the nomination bump?
 date: 2026-03-05
 draft: false
+publish: true
 tags:
   - "#CPR/Film/Substack"
   - "#regression"

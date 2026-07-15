@@ -2,6 +2,7 @@
 title: Are original films more unequal than franchise films?
 date: 2026-05-12
 draft: false
+publish: true
 tags:
   - "#CPR/Film/Substack"
   - "#data-science"

@@ -2,6 +2,7 @@
 title: Did the 2026 nominations follow the 2024 pattern?
 date: 2026-02-15
 draft: false
+publish: true
 tags:
   - "#CPR/Film/Substack"
   - "#DiD"

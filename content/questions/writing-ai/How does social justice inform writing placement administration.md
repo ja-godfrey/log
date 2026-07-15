@@ -2,6 +2,7 @@
 title: How does social justice inform writing placement administration?
 date: 2024-01-01
 draft: false
+publish: true
 tags:
   - "#tessa-tinkle"
   - "#james-hammond"

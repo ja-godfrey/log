@@ -2,6 +2,7 @@
 title: How much is an Oscar win worth at the box office?
 date: 2026-03-10
 draft: false
+publish: true
 tags:
   - "#CPR/Film/Substack"
   - "#DiD"

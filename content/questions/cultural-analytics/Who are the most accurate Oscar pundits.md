@@ -2,6 +2,7 @@
 title: Who are the most accurate Oscar pundits?
 date: 2025-12-01
 draft: false
+publish: true
 tags:
   - "#CPR/Film/Substack"
   - "#data-science"

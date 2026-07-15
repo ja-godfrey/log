@@ -2,6 +2,7 @@
 title: How usable is the federal ESSER expenditure dataset for research?
 date: 2026-07-13T12:00:00-06:00
 draft: false
+publish: true
 description: A public correction notice for the AERA 2026 conference analysis.
 tags:
   - "#AERA/2026"

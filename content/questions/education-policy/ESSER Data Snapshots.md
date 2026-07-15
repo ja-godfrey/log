@@ -2,6 +2,7 @@
 title: ESSER Data Snapshots
 date: 2024-09-27
 draft: false
+publish: true
 tags:
   - "#accelerate"
   - "#ESSER"

@@ -1,6 +1,7 @@
 ---
 date: 2025-03-14
 draft: false
+publish: true
 tags:
   - "#laura-aull"
   - "#GenAI"

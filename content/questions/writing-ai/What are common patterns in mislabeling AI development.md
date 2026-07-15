@@ -2,6 +2,7 @@
 title: What are common patterns in mislabeling AI development?
 date: 2025-12-01
 draft: false
+publish: true
 tags:
   - "#NeurIPS"
   - "#machine-learning"

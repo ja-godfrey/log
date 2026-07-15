@@ -2,6 +2,7 @@
 title: How do academic advisors influence student writing course selection?
 date: 2023-01-01
 draft: false
+publish: true
 tags:
   - "#tessa-tinkle"
   - "#anil-menon"

@@ -2,6 +2,7 @@
 title: Is the Oscar nomination bump consistent across years?
 date: 2026-03-01
 draft: false
+publish: true
 tags:
   - "#CPR/Film/Substack"
   - "#DiD"

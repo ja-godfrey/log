@@ -14,12 +14,14 @@ npx quartz build --serve
 Run the release checks with:
 
 ```bash
-npx tsc --noEmit
+npm run check
 npm test
-npx quartz build
+npm run check:publication
+npm run build
+npm run check:site-output
 ```
 
-The `content/` directory is also an Obsidian vault. Research data, credentials, working notes, presenter notes, and unpublished or review-stage material are intentionally excluded from this repository.
+The site uses explicit publication: a Markdown page is eligible for the build only when its frontmatter contains `publish: true`. Drafts, research data, credentials, working notes, presenter notes, and unpublished or review-stage material are intentionally excluded from this repository.
 
 ## Licensing
 

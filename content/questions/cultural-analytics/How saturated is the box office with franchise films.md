@@ -2,6 +2,7 @@
 title: How saturated is the box office with franchise films?
 date: 2025-09-01
 draft: false
+publish: true
 tags:
   - "#CPR/Film/Substack"
   - "#data-science"

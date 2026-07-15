@@ -2,6 +2,7 @@
 title: How should educators treat GenAI in the classroom?
 date: 2025-01-01
 draft: false
+publish: true
 tags:
   - "#GenAI"
   - "#published"

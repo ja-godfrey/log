@@ -2,6 +2,7 @@
 title: How can we engineer data-informed tutoring at scale?
 date: 2025-06-01
 draft: false
+publish: true
 tags:
   - "#kana-ueyama"
   - "#tutoring"

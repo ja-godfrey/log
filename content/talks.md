@@ -2,6 +2,7 @@
 title: Talks & Presentations
 date: 2026-07-13T12:00:00-06:00
 draft: false
+publish: true
 description: Selected conference presentations, invited talks, and workshops by Jason Godfrey.
 tags:
   - "#talks"

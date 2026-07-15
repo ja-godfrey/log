@@ -2,6 +2,7 @@
 title: Are video metrics useful for course assessment in online writing instruction?
 date: 2024-08-20
 draft: false
+publish: true
 tags:
   - "#FYW"
   - "#video"
