@@ -6,12 +6,15 @@ const explorerOpts = {
   filterFn: (node: any) => node.name !== "tags" && node.name !== "_archive",
   sortFn: (a: any, b: any) => {
     const rootOrder: Record<string, number> = {
-      talks: 0,
-      questions: 1,
+      questions: 0,
+      presentations: 1,
+      kanban: 2,
     }
-    const aRootOrder = rootOrder[a.name] ?? 99
-    const bRootOrder = rootOrder[b.name] ?? 99
-    if (aRootOrder !== 99 || bRootOrder !== 99) return aRootOrder - bRootOrder
+    if (a.depth === 1 && b.depth === 1) {
+      const aRootOrder = rootOrder[a.name] ?? 99
+      const bRootOrder = rootOrder[b.name] ?? 99
+      if (aRootOrder !== bRootOrder) return aRootOrder - bRootOrder
+    }
 
     if (a.file && !b.file) return 1
     if (!a.file && b.file) return -1
@@ -31,6 +34,15 @@ const explorerOpts = {
     })
   },
   mapFn: (node: any) => {
+    if (node.depth === 1) {
+      const rootNames: Record<string, string> = {
+        questions: "Questions",
+        presentations: "Presentations",
+        kanban: "Kanban",
+      }
+      if (rootNames[node.name]) node.displayName = rootNames[node.name]
+    }
+
     if (!node.file) {
       const names: Record<string, string> = {
         "education-policy": "Education Policy & Data Science",

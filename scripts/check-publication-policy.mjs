@@ -106,7 +106,7 @@ for (const entries of namespaceGroups.values()) {
   }
 }
 
-for (const requiredPage of ["index.md", "talks.md"]) {
+for (const requiredPage of ["index.md", "kanban.md", "presentations.md"]) {
   if (!approved.includes(requiredPage)) {
     problems.push(`${requiredPage}: required public page is not approved`)
   }

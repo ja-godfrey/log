@@ -125,17 +125,18 @@ const forbiddenFiles = files
   .filter((file) => forbiddenExtensions.has(path.extname(file).toLowerCase()))
   .map((file) => path.relative(root, file))
 
-const forbiddenPaths = ["html-files", "questions-kanban.html"].filter((entry) =>
-  fs.existsSync(path.join(root, entry)),
-)
+const forbiddenPaths = ["html-files"].filter((entry) => fs.existsSync(path.join(root, entry)))
 
 const sitemapPath = path.join(root, "sitemap.xml")
 const sitemap = fs.existsSync(sitemapPath) ? fs.readFileSync(sitemapPath, "utf8") : ""
 const sitemapProblems = []
-if (!sitemap.includes("/talks")) sitemapProblems.push("talks missing from sitemap")
-if (/questions-kanban|questions\/_archive/.test(sitemap)) {
-  sitemapProblems.push("draft/archive path present in sitemap")
+if (!sitemap.includes("/presentations")) {
+  sitemapProblems.push("presentations missing from sitemap")
 }
+if (!sitemap.includes("/kanban")) {
+  sitemapProblems.push("Kanban missing from sitemap")
+}
+if (/questions\/_archive/.test(sitemap)) sitemapProblems.push("archive path present in sitemap")
 
 const uniqueMissing = [
   ...new Map(missing.map((item) => [`${item.from}\0${item.reference}`, item])).values(),

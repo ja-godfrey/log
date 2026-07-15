@@ -1,6 +1,6 @@
 {
   "name": "jason-godfrey-research-log",
-  "description": "Jason Godfrey's Quartz-powered research portfolio and talks site",
+  "description": "Jason Godfrey's Quartz-powered research portfolio and presentations site",
   "private": true,
   "version": "4.3.0",
   "type": "module",

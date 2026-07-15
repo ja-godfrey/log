@@ -8,7 +8,7 @@ tags:
 
 This is a portfolio of research questions I've answered and the ones I'm still working on. The work clusters into three interconnected strands: education policy and data science, writing assessment and AI, and cultural analytics. Methods are the membranes between strands — causal inference, NLP, and data science show up everywhere, so questions in one strand often connect to questions in another.
 
-**[[talks|Browse selected talks and presentations →]]**
+**[[presentations|Browse presentations →]]**
 
 ## Education Policy & Data Science
 

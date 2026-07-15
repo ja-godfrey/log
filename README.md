@@ -1,6 +1,6 @@
 # Jason Godfrey's research log
 
-This repository contains the source for [log.jasongodfrey.info](https://log.jasongodfrey.info), a Quartz-powered research portfolio and collection of selected talks.
+This repository contains the source for [log.jasongodfrey.info](https://log.jasongodfrey.info), a Quartz-powered research portfolio and curriculum-vitae presentation list.
 
 ## Local development
 

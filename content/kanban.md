@@ -1,6 +1,9 @@
 ---
+title: Kanban
 kanban-plugin: board
-draft: true
+publish: true
+aliases:
+  - questions-kanban
 ---
 
 ## not started
@@ -8,7 +11,7 @@ draft: true
 ## doing
 
 - [ ] [[What would an open standard for tutoring data look like]]
-- [ ] [[What's so high about tutoring anyway-Dosage Quality Impact]]
+- [ ] What's so high about tutoring anyway—dosage, quality, impact?
 - [ ] Do cosine-similarity metrics correctly identify LLM model collapse? #NeurIPS/2026
 
 ## stalled
