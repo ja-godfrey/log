@@ -46,9 +46,27 @@ function resolveLocalReference(fromFile, rawReference) {
 
   return {
     target,
-    exists: candidates.some((candidate) => fs.existsSync(candidate)),
+    exists: candidates.some((candidate) => existsWithExactCase(candidate)),
     candidates,
   }
+}
+
+function existsWithExactCase(candidate) {
+  const relative = path.relative(root, candidate)
+  if (relative === "") return true
+  if (relative === ".." || relative.startsWith(`..${path.sep}`) || path.isAbsolute(relative)) {
+    return false
+  }
+
+  let current = root
+  for (const segment of relative.split(path.sep)) {
+    const entry = fs
+      .readdirSync(current, { withFileTypes: true })
+      .find((candidateEntry) => candidateEntry.name === segment)
+    if (!entry) return false
+    current = path.join(current, entry.name)
+  }
+  return true
 }
 
 if (!fs.existsSync(root)) {
@@ -61,6 +79,9 @@ const htmlFiles = files.filter((file) => file.endsWith(".html"))
 const missing = []
 const unsafeEmbeds = []
 const attributePattern = /\b(?:href|src)=(?:"([^"]*)"|'([^']*)')/gi
+const caseCollisions = [...Map.groupBy(files, (file) => file.toLocaleLowerCase("en-US")).values()]
+  .filter((group) => new Set(group).size > 1)
+  .map((group) => group.map((file) => path.relative(root, file)))
 
 for (const file of htmlFiles) {
   const html = fs.readFileSync(file, "utf8")
@@ -131,6 +152,8 @@ console.log(`Forbidden data files: ${forbiddenFiles.length}`)
 for (const file of forbiddenFiles) console.log(`  ${file}`)
 console.log(`Forbidden output paths: ${forbiddenPaths.length}`)
 for (const entry of forbiddenPaths) console.log(`  ${entry}`)
+console.log(`Case-colliding output paths: ${caseCollisions.length}`)
+for (const group of caseCollisions) console.log(`  ${group.join(" <> ")}`)
 console.log(`Sitemap problems: ${sitemapProblems.length}`)
 for (const problem of sitemapProblems) console.log(`  ${problem}`)
 
@@ -139,6 +162,7 @@ if (
   unsafeEmbeds.length > 0 ||
   forbiddenFiles.length > 0 ||
   forbiddenPaths.length > 0 ||
+  caseCollisions.length > 0 ||
   sitemapProblems.length > 0
 ) {
   process.exit(1)

@@ -48,6 +48,7 @@ if (/Plugin\.RemoveDrafts\s*\(/.test(filters)) {
 const markdownFiles = walk(contentRoot).filter((file) => file.endsWith(".md"))
 const approved = []
 const drafts = []
+const publicNamespaceValues = []
 let ignored = 0
 
 for (const file of markdownFiles) {
@@ -80,10 +81,28 @@ for (const file of markdownFiles) {
       problems.push(`${relativePath}: publish: true conflicts with draft: true`)
     }
     approved.push(relativePath)
+    for (const kind of ["tags", "aliases"]) {
+      const values = Array.isArray(data[kind]) ? data[kind] : data[kind] ? [data[kind]] : []
+      for (const value of values) {
+        publicNamespaceValues.push({ kind, value: String(value), relativePath })
+      }
+    }
   } else if (data.draft === true) {
     drafts.push(relativePath)
   } else {
     problems.push(`${relativePath}: set publish: true or draft: true explicitly`)
+  }
+}
+
+const namespaceGroups = Map.groupBy(
+  publicNamespaceValues,
+  (entry) => `${entry.kind}:${entry.value.toLocaleLowerCase("en-US")}`,
+)
+for (const entries of namespaceGroups.values()) {
+  const spellings = [...new Set(entries.map((entry) => entry.value))]
+  if (spellings.length > 1) {
+    const locations = entries.map((entry) => `${entry.value} in ${entry.relativePath}`).join("; ")
+    problems.push(`case-colliding public ${entries[0].kind}: ${locations}`)
   }
 }
 

@@ -6,7 +6,7 @@ publish: true
 tags:
   - "#NeurIPS"
   - "#machine-learning"
-  - "#NLP"
+  - "#nlp"
   - "#published"
 ---
 **Short answer:** A NeurIPS 2025 contribution examining systematic patterns in how AI systems and their capabilities are mislabeled during development and deployment.
