@@ -10,6 +10,34 @@
     grid-column: 1 / -1;
   }
 
+  & > h2 {
+    margin-bottom: 0.15rem;
+  }
+
+  & > h3,
+  & > h4 {
+    margin: 1.65rem 0 0;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid color-mix(in srgb, var(--gray) 34%, transparent);
+  }
+
+  & > ul {
+    display: grid;
+    gap: 0.8rem;
+    margin: 0.25rem 0 0;
+    padding: 0;
+    list-style: none;
+
+    & > li {
+      padding: 0.9rem 1rem 0.9rem 1.1rem;
+      border-left: 0.22rem solid color-mix(in srgb, var(--secondary) 60%, transparent);
+      border-radius: 0 0.65rem 0.65rem 0;
+      background: color-mix(in srgb, var(--lightgray) 38%, transparent);
+      line-height: 1.62;
+      overflow-wrap: anywhere;
+    }
+  }
+
   & > .callout {
     --color: var(--secondary);
     --border: color-mix(in srgb, var(--secondary) 34%, transparent);
@@ -72,6 +100,10 @@
       .callout-content {
         min-height: auto;
       }
+    }
+
+    & > ul > li {
+      padding: 0.8rem 0.85rem 0.8rem 0.95rem;
     }
   }
 }
