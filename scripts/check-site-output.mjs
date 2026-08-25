@@ -1,7 +1,9 @@
 import fs from "node:fs"
 import path from "node:path"
 
-const root = path.resolve(process.argv[2] ?? "public")
+import { siteOutputRoot } from "./research-data-paths.mjs"
+
+const root = path.resolve(process.argv[2] ?? siteOutputRoot())
 
 function walk(dir) {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {

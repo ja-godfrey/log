@@ -17,6 +17,11 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-22.04
+    env:
+      # research-data-paths.mjs fails closed by design, so CI must say where
+      # the build output goes. The runner workspace puts it at ./public,
+      # which is what upload-pages-artifact and the CNAME step expect.
+      LOG_RUNTIME_ROOT: ${{ github.workspace }}
     steps:
       - uses: actions/checkout@v7
         with:

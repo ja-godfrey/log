@@ -13,14 +13,14 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "docs": "npx quartz build --serve -d docs",
-    "build": "npx quartz build",
+    "docs": "node ./scripts/run-quartz-external.mjs build --serve -d docs",
+    "build": "node ./scripts/run-quartz-external.mjs build",
     "check": "tsc --noEmit && npx prettier . --check",
     "check:publication": "node ./scripts/check-publication-policy.mjs ./content ./quartz.config.ts",
-    "check:site-output": "node ./scripts/check-site-output.mjs ./public",
+    "check:site-output": "node ./scripts/check-site-output.mjs",
     "format": "npx prettier . --write",
-    "test": "tsx ./quartz/util/path.test.ts && tsx ./quartz/depgraph.test.ts",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
+    "test": "tsx ./quartz/util/path.test.ts && tsx ./quartz/depgraph.test.ts && node --test ./scripts/research-data-paths.test.mjs",
+    "profile": "0x -D prof ./scripts/run-quartz-external.mjs build --concurrency=1"
   },
   "engines": {
     "npm": ">=9.3.1",
