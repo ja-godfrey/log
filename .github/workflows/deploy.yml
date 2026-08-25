@@ -36,6 +36,8 @@ jobs:
         run: npm run build
       - name: Verify generated site
         run: npm run check:site-output
+      - name: Add CNAME for custom domain
+        run: echo "log.jasongodfrey.com" > public/CNAME
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
