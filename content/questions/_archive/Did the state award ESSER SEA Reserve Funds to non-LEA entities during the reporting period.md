@@ -12,4 +12,4 @@ This is a single-shot breakout of the information that appears in [[What did the
 
 <iframe src="state_esser_combined_seaNonLeaFundsAwarded.html" width="100%" height="600px" frameborder="0"></iframe>
 
-View this chart as its own page [here](https://log.jasongodfrey.info/html-files/state_esser_combined_seaNonLeaFundsAwarded.html).
+View this chart as its own page [here](https://log.jasongodfrey.com/html-files/state_esser_combined_seaNonLeaFundsAwarded.html).
