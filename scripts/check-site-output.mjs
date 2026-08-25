@@ -1,5 +1,6 @@
 import fs from "node:fs"
 import path from "node:path"
+import { fileURLToPath } from "node:url"
 
 import { siteOutputRoot } from "./research-data-paths.mjs"
 
@@ -76,6 +77,20 @@ if (!fs.existsSync(root)) {
   process.exit(2)
 }
 
+// Interactive exports inline their source data, so publishing one must be a
+// deliberate, reviewable act rather than a side effect of dropping a file into
+// content/. Every embed-bearing output path has to be listed in this file.
+const allowlistPath = path.join(path.dirname(fileURLToPath(import.meta.url)), "allowed-embeds.txt")
+const allowedEmbeds = new Set(
+  fs.existsSync(allowlistPath)
+    ? fs
+        .readFileSync(allowlistPath, "utf8")
+        .split(/\r?\n/)
+        .map((line) => line.replace(/#.*$/, "").trim())
+        .filter(Boolean)
+    : [],
+)
+
 const files = walk(root)
 const htmlFiles = files.filter((file) => file.endsWith(".html"))
 const missing = []
@@ -88,10 +103,17 @@ const caseCollisions = [...Map.groupBy(files, (file) => file.toLocaleLowerCase("
 for (const file of htmlFiles) {
   const html = fs.readFileSync(file, "utf8")
   if (/<iframe\b|plotly(?:\.min)?\.js/i.test(html)) {
-    unsafeEmbeds.push(path.relative(root, file))
+    const relativePath = path.relative(root, file).split(path.sep).join("/")
+    if (!allowedEmbeds.has(relativePath)) unsafeEmbeds.push(relativePath)
   }
 
-  for (const match of html.matchAll(attributePattern)) {
+  // Scan markup only. Minified bundles contain href=/src= inside string
+  // literals, which were being reported as missing local files.
+  const markup = html
+    .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, "")
+    .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, "")
+
+  for (const match of markup.matchAll(attributePattern)) {
     const raw = match[1] ?? match[2] ?? ""
     const resolved = resolveLocalReference(file, raw)
     if (resolved && !resolved.exists) {
@@ -127,7 +149,7 @@ const forbiddenFiles = files
   .filter((file) => forbiddenExtensions.has(path.extname(file).toLowerCase()))
   .map((file) => path.relative(root, file))
 
-const forbiddenPaths = ["html-files"].filter((entry) => fs.existsSync(path.join(root, entry)))
+const forbiddenPaths = [].filter((entry) => fs.existsSync(path.join(root, entry)))
 
 const sitemapPath = path.join(root, "sitemap.xml")
 const sitemap = fs.existsSync(sitemapPath) ? fs.readFileSync(sitemapPath, "utf8") : ""

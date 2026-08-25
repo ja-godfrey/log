@@ -37,6 +37,10 @@ google-analytics.py
 
 # Generated interactive exports and additional data artifacts
 *.html
+# ...except charts published with the log. The blanket rule above is for
+# generated data artefacts; without this exception it silently untracks
+# site content and every note linking to /html-files/ 404s.
+!content/html-files/*.html
 *.rda
 *.rds
 *.feather

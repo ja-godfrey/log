@@ -1,0 +1,22 @@
+# Output paths permitted to contain interactive embeds (Plotly, <iframe>).
+#
+# These files inline their source data, so listing one here is a statement
+# that its underlying data is cleared for public release. check-site-output.mjs
+# fails the build for any embed-bearing page NOT listed, which keeps the
+# default "no" while letting reviewed charts through.
+#
+# Paths are relative to the built site root, forward slashes.
+
+html-files/state-esser-allocations-histogram.html
+html-files/state-esser-allocations-per-student.html
+html-files/state_data_used.html
+html-files/state_data_used_bar.html
+html-files/state_esser_combined_afterschoolProgramsAwarded.html
+html-files/state_esser_combined_anyEsserASeaDirectActivitiesLearningLoss.html
+html-files/state_esser_combined_learningLossFundsAwarded.html
+html-files/state_esser_combined_otherAwarded.html
+html-files/state_esser_combined_seaFundsAwarded.html
+html-files/state_esser_combined_seaNonLeaFundsAwarded.html
+html-files/state_esser_combined_summerEnrichmentAwarded.html
+html-files/state_esser_uses.html
+html-files/state_percent_esser_spent.html
