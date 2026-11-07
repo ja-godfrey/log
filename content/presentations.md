@@ -14,6 +14,8 @@ cssclasses:
 
 ### 2026
 
+- **Auditing Evidence Framing at NeurIPS: A Decade-Scale Study of Accepted Papers.** Jason Godfrey. Accepted at _NeurIPS 2026, Evaluations & Datasets_, Atlanta, GA, December 2026. [[evidence-norms-atlas|Project overview]] · [Interactive Atlas](https://jasongodfrey.com/atlas) · [Paper](https://openreview.net/forum?id=d3J7bxCLHH).
+
 - **Building Equitable Futures: A Multi-State High-Dosage Tutoring Data Toolkit.** Jason Godfrey, Rebecca Marshall, and Matthew Steinberg. _Proceedings of the 2026 Annual Meeting of the American Educational Research Association_, Los Angeles, CA, April 2026. <!-- vitae: godfrey2026a -->
 
 - **Signal or Static? Unpacking ESSER Expenditures with Benford's Law.** Jason Godfrey. _Proceedings of the 2026 Annual Meeting of the American Educational Research Association_, Los Angeles, CA, April 2026. <!-- vitae: godfrey2026b -->

@@ -38,6 +38,10 @@ As Managing Director of Data & Information Systems at Accelerate and a Harvard S
 
 My PhD at University of Michigan centered on placement equity: whether standardized tests reliably sort students into writing courses, and what happens when students get a say. That thread extends into alumni outcomes, GenAI policy, and — most recently — NLP research on how AI development itself is characterized.
 
+### Accepted
+
+- [[evidence-norms-atlas|How have NeurIPS papers changed the evidence they foreground?]] — NeurIPS 2026, Evaluations & Datasets. [Explore the Evidence Norms Atlas →](https://jasongodfrey.com/atlas)
+
 ### Published
 
 - [[Are essay-based tests a reliable metric of student performance on college-level writing tasks]]?
